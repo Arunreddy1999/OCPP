@@ -6,5 +6,6 @@ int main(){
     sum=a+b;
     printf("sum= %d",sum);
 printf("add new line"\n);
+printf("adding second line \n");
 }
 
