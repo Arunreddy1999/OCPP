@@ -5,9 +5,6 @@ int main(){
     scanf("%d %d",&a, &b);
     sum=a+b;
     printf("sum= %d",sum);
-<<<<<<< HEAD
+printf("add new line"\n);
 }
-=======
-   
-}
->>>>>>> 41050f3 (hi)
+
